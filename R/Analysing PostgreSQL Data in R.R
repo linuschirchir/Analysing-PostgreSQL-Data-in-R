@@ -4,7 +4,6 @@
   # Make required packages available
   require("RPostgreSQL")
   require(tidyverse)
-  require(pool)
   }
 
 {
@@ -125,4 +124,4 @@ print(dbListTables(con))
   # close the connection
   dbDisconnect(con)
   print("The Database has been disconnected…")
-  }
+}
