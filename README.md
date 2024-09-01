@@ -69,7 +69,7 @@ Feel free to customise the scripts to suit your needs:
 
 - SQL Queries: Modify the SQL queries in the scripts to retrieve different data or perform more complex operations.
 - Analysis Techniques: Add or change the analysis techniques using other R packages or custom functions.
-- Visualizations: Incorporate more advanced visualizations using packages like `ggplot2` or `plotly`.
+- Visualisations: Incorporate more advanced visualisations using packages like `ggplot2` or `plotly`.
 
 ## License
 
