@@ -1,19 +1,19 @@
 # Analysing PostgreSQL Data in R
 
-This repository contains code and instructions for connecting to a PostgreSQL database and performing data analysis using R, as explained in the [article by Linus Chirchir](https://medium.com/@linuschirchir/analysing-postgresql-data-in-r-7ea2b2565ba7).
+This repository contains code and instructions for connecting to a PostgreSQL database and performing data analysis using R, as explained in the [article by Linus Chirchir]( https://linuschirchir.medium.com/analysing-postgresql-data-in-r-7ea2b2565ba7).
 
 ## Table of Contents
 - [Introduction](#introduction)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Connecting to PostgreSQL](#connecting-to-postgresql)
-- [Querying and Analysing Data](#querying-and-analyzing-data)
+- [Querying and Analysing Data](#querying-and-analysing-data)
 - [Customisation](#customisation)
 - [License](#license)
 
 ## Introduction
 
-This project demonstrates how to connect to a PostgreSQL database from R and perform data analysis using popular R packages like “DBI”, “RPostgres”, and “dplyr”. The repository includes example scripts that guide you through querying data and conducting basic analysis, making it a useful resource for data scientists and analysts who work with PostgreSQL.
+This project demonstrates how to connect to a PostgreSQL database from R and perform data analysis using popular R packages like `DBI`, `RPostgres`, and `dplyr`. The repository includes example scripts that guide you through querying data and conducting basic analysis, making it a useful resource for data scientists and analysts who work with PostgreSQL.
 
 ## Prerequisites
 
@@ -22,7 +22,7 @@ Before you begin, ensure you have the following installed:
 - R (version 3.6 or later)
 - RStudio (optional, but recommended for ease of use)
 - PostgreSQL database (local or remote)
-- Necessary R packages: “DBI”, “RPostgres”, and “dplyr”
+- Necessary R packages: `DBI`, `RPostgres`, `dplyr`
 
 ## Installation
 
@@ -51,7 +51,7 @@ This script sets up a connection to your PostgreSQL database, allowing you to ex
 
 ## Querying and Analysing Data
 
-Once connected, you can use the "query_and_analyse.R" script to retrieve and analyse data. This script demonstrates how to:
+Once connected, you can use the `query_and_analyse.R` script to retrieve and analyse data. This script demonstrates how to:
 
 - Write and execute SQL queries in R
 - Manipulate and analyse the retrieved data using `dplyr`
@@ -65,7 +65,7 @@ source("query_and_analyse.R")
 
 ## Customisation
 
-Feel free to customize the scripts to suit your needs:
+Feel free to customise the scripts to suit your needs:
 
 - SQL Queries: Modify the SQL queries in the scripts to retrieve different data or perform more complex operations.
 - Analysis Techniques: Add or change the analysis techniques using other R packages or custom functions.
