@@ -55,7 +55,7 @@ Once connected, you can use the `query_and_analyse.R` script to retrieve and ana
 
 - Write and execute SQL queries in R
 - Manipulate and analyse the retrieved data using `dplyr`
-- Visualize results with basic plotting functions
+- Visualise results with basic plotting functions
 
 Run the script as follows:
 
