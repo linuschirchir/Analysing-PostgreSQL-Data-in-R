@@ -51,7 +51,7 @@ This script sets up a connection to your PostgreSQL database, allowing you to ex
 
 ## Querying and Analysing Data
 
-Once connected, you can use the `query_and_analyse. R` script to retrieve and analyse data. This script demonstrates how to:
+Once connected, you can use the "query_and_analyse.R" script to retrieve and analyse data. This script demonstrates how to:
 
 - Write and execute SQL queries in R
 - Manipulate and analyse the retrieved data using `dplyr`
@@ -60,7 +60,7 @@ Once connected, you can use the `query_and_analyse. R` script to retrieve and an
 Run the script as follows:
 
 ```r
-source("query_and_analyse. R")
+source("query_and_analyse.R")
 ```
 
 ## Customisation
