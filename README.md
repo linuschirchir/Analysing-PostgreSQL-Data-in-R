@@ -1,6 +1,6 @@
 # Analysing PostgreSQL Data in R
 
-This repository contains code and instructions for connecting to a PostgreSQL database and performing data analysis using R, as explained in the [article by Linus Chirchir]( https://linuschirchir.medium.com/analysing-postgresql-data-in-r-7ea2b2565ba7).
+This repository contains code and instructions for connecting to a PostgreSQL database and performing data analysis using R, as explained in the article by [Linus Chirchir]( https://linuschirchir.medium.com/analysing-postgresql-data-in-r-7ea2b2565ba7).
 
 ## Table of Contents
 - [Introduction](#introduction)
