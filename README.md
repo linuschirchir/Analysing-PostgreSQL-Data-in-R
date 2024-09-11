@@ -32,12 +32,15 @@ First, install the required R packages:
 install.packages(c("DBI", "RPostgres", "dplyr"))
 ```
 
-Clone this repository to your local machine:
+Fork the repository:
+   - Go to the repository page on GitHub: https://github.com/linuschirchir/Analysing-PostgreSQL-Data-in-R.git
+   - Click "Fork" in the top-right corner to copy the repository to your GitHub account.
 
-```bash
-git clone https://github.com/linuschirchir/Analysing-PostgreSQL-Data-in-R.git
-cd Analysing-PostgreSQL-Data-in-R
-```
+Clone your forked repository to your local machine:
+   ```bash
+   git clone https://github.com/<your-GitHub-username>/Analysing-PostgreSQL-Data-in-R.git
+   cd Analysing-PostgreSQL-Data-in-R
+   ```
 
 ## Connecting to PostgreSQL
 
@@ -78,4 +81,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 Happy analysing!
-```
